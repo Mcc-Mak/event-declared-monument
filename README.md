@@ -1,5 +1,5 @@
 # event-declared-monument
-Event - Declared Monument
+📋 [Event - Declared Monument](List%20of%20Declared%20Monuments%20in%20HK.md)
 ## Principle(s)
 [`小故事`構建準則](小故事/準則.md)
 ## Reference(s)
